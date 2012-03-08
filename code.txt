@@ -1,1 +1,2 @@
-test
+test dhbw1
+test dhbw2
